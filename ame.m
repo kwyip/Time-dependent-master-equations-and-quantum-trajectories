@@ -1,3 +1,4 @@
+%kawayip@usc.edu
 function ame
 %warning('off','MATLAB:eigs:TooManyRequestedEigsForRealSym')
 % % Define Pauli matrices
