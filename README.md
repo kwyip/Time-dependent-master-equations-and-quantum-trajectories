@@ -6,6 +6,9 @@ https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.022116
 The Hamiltonian is a 8-qubit ferromagnetic Ising spin chain in a transverse field, with annealing schedule attached as 'DW1_parameters.txt'.
 
 
+![alt text](https://github.com/kwyip/Adiabatic-master-equation-and-quantum-trajectories/blob/master/8-qubit_chain.png)
+
+
 
 
 
