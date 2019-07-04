@@ -1,4 +1,5 @@
 %kawayip@usc.edu
+%8-qubit_chain.png
 function ame
 %warning('off','MATLAB:eigs:TooManyRequestedEigsForRealSym')
 % % Define Pauli matrices
