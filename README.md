@@ -13,8 +13,10 @@ The Hamiltonian is a 8-qubit ferromagnetic Ising spin chain in a transverse fiel
 
 
 
+The master equation is:
 
-
+![alt text](https://github.com/kwyip/Adiabatic-master-equation-and-quantum-trajectories/blob/master/ame1.png)
+![alt text](https://github.com/kwyip/Adiabatic-master-equation-and-quantum-trajectories/blob/master/ame2.png)
 
 
 
