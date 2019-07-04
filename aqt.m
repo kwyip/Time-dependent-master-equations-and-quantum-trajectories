@@ -1,4 +1,5 @@
 %kawayip@usc.edu
+%8-qubit_chain
 function aqt
 % % Define Pauli matrices
 sX = [0 1; 1 0];
