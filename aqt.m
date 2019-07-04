@@ -1,3 +1,4 @@
+%kawayip@usc.edu
 function aqt
 % % Define Pauli matrices
 sX = [0 1; 1 0];
