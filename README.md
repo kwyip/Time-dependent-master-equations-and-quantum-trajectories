@@ -26,4 +26,4 @@ The master equation is:
 
 
 
-Both ame.m and aqt.m use sparse matrix for computation.
+Both ame.m and aqt.m use sparse matrix for computation. aqt.m uses parallel computation.
