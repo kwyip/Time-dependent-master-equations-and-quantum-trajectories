@@ -61,10 +61,10 @@ and backtracking for error control.
 
 ## Tutorial: UCL 4 qubit gadgets and a single qubit <a name="tutorial"></a>
 ### UCL 4 qubit gadgets <a name="ucl"></a>
-The folder [tutorial_4_qubit_gadget](https://github.com/USCqserver/Adiabatic-master-equation-and-quantum-trajectories/tree/master/tutorial_4_qubit_gadget) contains a tutorial on how to run the codes. 
+The folder [tutorial_4_qubit_gadget](https://github.com/kwyip/Adiabatic-master-equation-and-quantum-trajectories/tree/master/tutorial_4_qubit_gadget) contains a tutorial on how to run the codes. 
 ![alt text](https://github.com/USCqserver/Adiabatic-master-equation-and-quantum-trajectories/blob/master/images/4-qubit.png)
 ### Single qubit <a name="single"></a>
-A [onequbit_demo](https://github.com/USCqserver/Adiabatic-master-equation-and-quantum-trajectories/tree/master/tutorial_4_qubit_gadget/onequbit_demo) instruction folder was made for how to run codes on a single qubit. The pdf file [kawacode.pdf](https://github.com/USCqserver/Adiabatic-master-equation-and-quantum-trajectories/blob/master/tutorial_4_qubit_gadget/kawacode.pdf) contains a presentation on excecutions.
+A [onequbit_demo](https://github.com/kwyip/Adiabatic-master-equation-and-quantum-trajectories/tree/master/tutorial_4_qubit_gadget/onequbit_demo) instruction folder was made for how to run codes on a single qubit. The pdf file [kawacode.pdf](https://github.com/kwyip/Adiabatic-master-equation-and-quantum-trajectories/blob/master/tutorial_4_qubit_gadget/kawacode.pdf) contains a presentation on excecutions.
 
 ## Reference <a name="reference"></a>
 <a id="1">[1]</a> 
