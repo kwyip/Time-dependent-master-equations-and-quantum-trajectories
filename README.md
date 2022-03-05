@@ -4,7 +4,7 @@
 
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Latest release](https://img.shields.io/github/v/release/kwyip/Adiabatic-master-equation-and-quantum-trajectories)](https://github.com/kwyip/Adiabatic-master-equation-and-quantum-trajectories/releases/tag/v2.0.0)
+[![Latest release](https://img.shields.io/github/v/release/USCqserver/Adiabatic-master-equation-and-quantum-trajectories)](https://github.com/USCqserver/Adiabatic-master-equation-and-quantum-trajectories/releases/tag/v2.0.0)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-BLUE.svg)](https://www.mathworks.com/login?uri=%2Fdownloads%2Fprerelease)
 
 ---
