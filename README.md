@@ -19,7 +19,7 @@
 ---
 
 ## Motivation[![](./docs/img/pin.svg)](#motivation)
-Simulation codes of adiabatic master equation and quantum trajectories.
+Simulation codes of time-dependent master equation and quantum trajectories.
 
 ## Code description <a name="codedescription"></a>
 These are the codes of adiabatic master equation (`ame.m`) and quantum trajectories (`aqt.m`) used in this paper [[1]](#1).
